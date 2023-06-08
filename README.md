@@ -26,3 +26,4 @@
 - 🐾 Trên trình duyệt Chrome sau khi submit thành công thì trường password vẫn hiển thị error
 - 🐾 Dù có upload ảnh không thoả điều kiện < 3MB thì nó vẫn hiển thị lên khu vực xem trước
 - 🐾 Retype password chưa thể validation độc lập như email, password hay image vì giá trị của nó phụ thuộc vào field password
+- 🐾 Sau khi submit thành công thì vẫn hiện tích xanh bên trong ô input
